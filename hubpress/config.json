@@ -2,9 +2,38 @@
   "meta": {
     "username": "defremont",
     "repositoryName": "defremont.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://defremont.github.io",
+    "hubpress": "https://defremont.github.io",
+    "theme": "//defremont.github.io/themes/casper",
+    "images": "https://defremont.github.io/images"
+  },
+  "site": {
+    "title": "Defremont Blog",
+    "description": "Defremont Blog descrição",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "5",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "andre.def93@gmail.com",
+    "github": "https://github.com/defremont",
+    "twitter": "",
+    "facebook": "fb.com.br/andre.defremont",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
