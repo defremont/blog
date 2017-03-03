@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Defremont Blog]]></title><description><![CDATA[Defremont Blog descrição]]></description><link>https://defremont.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 03 Mar 2017 00:03:24 GMT</lastBuildDate><atom:link href="https://defremont.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Meu primeiro post]]></title><description><![CDATA[<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+There are breaking changes in this release that affect themes.
+Make sure you read these Release Notes in their entirety before reporting any bugs.
+</td>
+</tr>
+</table>
+</div>]]></description><link>https://defremont.github.io/2016/06/20/Meu-primeiro-post.html</link><guid isPermaLink="true">https://defremont.github.io/2016/06/20/Meu-primeiro-post.html</guid><category><![CDATA[release]]></category><pubDate>Mon, 20 Jun 2016 00:00:00 GMT</pubDate></item></channel></rss>
