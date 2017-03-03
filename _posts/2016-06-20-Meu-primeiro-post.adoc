@@ -1,0 +1,10 @@
+= Meu primeiro post
+:hp-tags: release
+:toc: macro
+:release: 0.5.1
+:published_at: 2016-06-20
+
+
+
+IMPORTANT: There are breaking changes in this release that affect themes.
+Make sure you read these Release Notes in their entirety before reporting any bugs.
